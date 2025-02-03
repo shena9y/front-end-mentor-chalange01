@@ -9,3 +9,5 @@ front-end-mentor QR-Code component-project
 ### Hi there! ### 👋
 
 Thanks for checking out this front-end coding challenge.
+
+[Live Site](https://shena9y.github.io/front-end-mentor-chalange01/)
