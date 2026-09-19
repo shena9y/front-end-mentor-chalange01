@@ -6,6 +6,8 @@ My solution to the [QR Code Component challenge](https://www.frontendmentor.io/c
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-3e54a3?style=for-the-badge)
 
+🔗 **Live Demo:** [https://shena9y.github.io/front-end-mentor-chalange01/](https://shena9y.github.io/front-end-mentor-chalange01/)
+
 ## ✨ Features
 
 - 🖼️ Centered QR code card component matching the provided design
@@ -36,6 +38,8 @@ front-end-mentor-chalange01/
 ```
 
 ## 🚀 Getting Started
+
+**Try it live:** [https://shena9y.github.io/front-end-mentor-chalange01/](https://shena9y.github.io/front-end-mentor-chalange01/) — no installation needed!
 
 1. Clone the repository
    ```bash
